@@ -1,0 +1,10 @@
+Output: WireList Netlist
+Type  : WireListNetlist
+From  : Project [New Member Project.PrjPcb]
+   Generated File[Temperature Sensor.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:43:14 On 21/03/03
